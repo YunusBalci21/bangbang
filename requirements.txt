@@ -1,2 +1,5 @@
 discord.py
 yt-dlp
+requests
+spotipy
+flask
